@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+.idea/
+node_modules
+addon.zip
+linkedin-messaging-full-screen.iml
+linkedin-messaging-full-screen.js
+# use only icons from the subdirectories - icons/firefox, icons/chrome
+icons/*.png
